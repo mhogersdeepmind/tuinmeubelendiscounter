@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "baseURL = \"/\"\nlanguageCode = \"en-us\"\ntitle = \"Tuinmeubel-Discounter\"\ntheme = \"kube\"\ndescription = \"\"\nPaginate = 3\n[Params]\n  RSSLink = \"/index.xml\"\n  author = \"teunmeubeldiscounter\" # add your company name\n\n[[menu.main]]\n    name = \"Producten\"\n    weight = -100\n    url = \"/docs/\"\n[[menu.main]]\n    name = \"Aanbiedingen\"\n    weight = -100\n    url = \"/blog/\"\n",
+    "created" : 1519569626995.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2294224464",
+    "id" : "8291FB56",
+    "lastKnownWriteTime" : 1519570347,
+    "last_content_update" : 1519570347578,
+    "path" : "C:/Users/Michael/Desktop/tuinmeubelendiscounter/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

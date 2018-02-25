@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Tuinmeubel-Discounter</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Tuinmeubel-Discounter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 16:40:50 +0100</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Partytenten</title>
+      <link>/blog/custom-plugins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/custom-plugins/</guid>
+      <description>Plugin Template Here&amp;rsquo;s what a generic plugin looks like. This template gives an overall idea of what you can do with plugins in Kube. Feel free to use this one as a boilerplate for your custom plugins.
+(function(Kube) { Kube.Myplugin = function(element, options) { this.namespace = &amp;lsquo;myplugin&amp;rsquo;;
+ &amp;lt;span class=&amp;quot;hljs-comment&amp;quot;&amp;gt;// default settings&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;hljs-keyword&amp;quot;&amp;gt;this&amp;lt;/span&amp;gt;.defaults = { mysetting: &amp;lt;span class=&amp;quot;hljs-literal&amp;quot;&amp;gt;true&amp;lt;/span&amp;gt; }; &amp;lt;span class=&amp;quot;hljs-comment&amp;quot;&amp;gt;// Parent Constructor&amp;lt;/span&amp;gt; Kube.apply(&amp;lt;span class=&amp;quot;hljs-keyword&amp;quot;&amp;gt;this&amp;lt;/span&amp;gt;, &amp;lt;span class=&amp;quot;hljs-built_in&amp;quot;&amp;gt;arguments&amp;lt;/span&amp;gt;); &amp;lt;span class=&amp;quot;hljs-comment&amp;quot;&amp;gt;// Initialization&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;hljs-keyword&amp;quot;&amp;gt;this&amp;lt;/span&amp;gt;.</description>
+    </item>
+    
+    <item>
+      <title>Overige</title>
+      <link>/blog/grid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/grid/</guid>
+      <description>Columns Columns are building blocks for many websites. Here&#39;s how columns are formed in Kube, and here&#39;s how you can use them right away.
+1  11   2  10   3  9   4  8   5  7   6  6   7  5   8  4   9  3   10  2   11  1   12   &amp;lt;div class=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Bescherming</title>
+      <link>/blog/forms/</link>
+      <pubDate>Mon, 10 Apr 2017 16:40:50 +0100</pubDate>
+      
+      <guid>/blog/forms/</guid>
+      <description>Base This is the most basic form with all the basic inputs.
+Email  Country  &amp;mdash;    Check me Radio me    Log in Cancel  
+&amp;lt;form method=&#34;post&#34; action=&#34;&#34; class=&#34;form&#34;&amp;gt; &amp;lt;div class=&#34;form-item&#34;&amp;gt; &amp;lt;label&amp;gt;Email&amp;lt;/label&amp;gt; &amp;lt;input type=&#34;email&#34; name=&#34;email&#34; class=&#34;w50&#34;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&#34;form-item&#34;&amp;gt; &amp;lt;label&amp;gt;Country&amp;lt;/label&amp;gt; &amp;lt;select&amp;gt; &amp;lt;option value=&#34;&#34;&amp;gt;---&amp;lt;/option&amp;gt; &amp;lt;/select&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&#34;form-item&#34;&amp;gt; &amp;lt;label class=&#34;checkbox&#34;&amp;gt;&amp;lt;input type=&#34;checkbox&#34;&amp;gt; Check me&amp;lt;/label&amp;gt; &amp;lt;label class=&#34;checkbox&#34;&amp;gt;&amp;lt;input type=&#34;radio&#34;&amp;gt; Radio me&amp;lt;/label&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&#34;form-item&#34;&amp;gt; &amp;lt;textarea rows=&#34;6&#34;&amp;gt;&amp;lt;/textarea&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Tuintafels</title>
+      <link>/blog/buttons/</link>
+      <pubDate>Mon, 10 Apr 2017 16:41:16 +0100</pubDate>
+      
+      <guid>/blog/buttons/</guid>
+      <description>Primary Button Button &amp;lt;button class=&amp;ldquo;button&amp;rdquo;&amp;gt;Button&amp;lt;/button&amp;gt; &amp;lt;a href=&amp;rdquo;#&amp;rdquo; class=&amp;ldquo;button&amp;rdquo;&amp;gt;Button&amp;lt;/a&amp;gt;  Secondary Button Button &amp;lt;button class=&amp;ldquo;button secondary&amp;rdquo;&amp;gt;Button&amp;lt;/button&amp;gt; &amp;lt;a href=&amp;rdquo;#&amp;rdquo; class=&amp;ldquo;button secondary&amp;rdquo;&amp;gt;Button&amp;lt;/a&amp;gt;  Outline Outline class does exactly what it is supposed to do: styles a button with an outline with no fill color.
+Button Button &amp;lt;button class=&amp;ldquo;button outline&amp;rdquo;&amp;gt;Button&amp;lt;/button&amp;gt; &amp;lt;button class=&amp;ldquo;button secondary outline&amp;rdquo;&amp;gt;Button&amp;lt;/button&amp;gt;  Disabled Disabled buttons are automatically styles with muted colors, inactive and not clickable. As you can see, there&amp;rsquo;s no need to set disabled class for the button element, and disabled argument is enough.</description>
+    </item>
+    
+    <item>
+      <title>Tuinstoelen</title>
+      <link>/blog/breadcrumbs/</link>
+      <pubDate>Mon, 10 Apr 2017 16:41:54 +0100</pubDate>
+      
+      <guid>/blog/breadcrumbs/</guid>
+      <description>Base   Home   Shop   Catalog   T-Shirts  Brand   &amp;lt;nav class=&amp;ldquo;breadcrumbs&amp;rdquo;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;span&amp;gt;&amp;hellip;&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;   Centered   Home   Shop   Catalog   T-Shirts  Brand    &amp;lt;nav class=&amp;ldquo;breadcrumbs push-center&amp;rdquo;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;ldquo;active&amp;rdquo;&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;   Custom Separator   Home   Shop   Catalog   T-Shirts  Brand   // css #breadcrumbs-custom-separator li:after { content: &amp;lsquo;&amp;gt;&amp;lsquo;; }</description>
+    </item>
+    
+    <item>
+      <title>Barbecues</title>
+      <link>/blog/dropdown/</link>
+      <pubDate>Mon, 10 Apr 2017 16:42:12 +0100</pubDate>
+      
+      <guid>/blog/dropdown/</guid>
+      <description>Demo Show Dropdown 
+   Item 1   Item 2  Item 3   Item 4   Item 5   Item 6    // Toggle &amp;lt;a href=&amp;rdquo;#&amp;rdquo; data-component=&amp;ldquo;dropdown&amp;rdquo; data-target=&amp;rdquo;#my-dropdown&amp;rdquo;&amp;gt;Show &amp;lt;span class=&amp;ldquo;caret down&amp;rdquo;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;
+// Dropdown &amp;lt;div class=&amp;ldquo;dropdown hide&amp;rdquo; id=&amp;ldquo;my-dropdown&amp;rdquo;&amp;gt; &amp;lt;a href=&amp;rdquo;&amp;rdquo; class=&amp;ldquo;close show-sm&amp;rdquo;&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt;   Show Dropdown 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Parasols</title>
+      <link>/blog/collapse/</link>
+      <pubDate>Mon, 10 Apr 2017 16:42:50 +0100</pubDate>
+      
+      <guid>/blog/collapse/</guid>
+      <description>Base Item 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Tuinsets</title>
+      <link>/blog/animation/</link>
+      <pubDate>Mon, 10 Apr 2017 16:43:08 +0100</pubDate>
+      
+      <guid>/blog/animation/</guid>
+      <description>Slide slideUp   slideDown   Slide Up Slide Down $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;slideUp&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;slideDown&amp;rsquo;);  Fade fadeIn   fadeOut   Fade In Fade Out $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;fadeIn&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;fadeOut&amp;rsquo;);  Flip flipIn   flipOut   Flip In Flip Out $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;flipIn&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;flipOut&amp;rsquo;);  Zoom zoomIn   zoomOut   Zoom In Zoom Out $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;zoomIn&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;zoomOut&amp;rsquo;);  Rotate rotate   Rotate $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;rotate&amp;rsquo;);  Shake shake   Shake $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;shake&amp;rsquo;);  Pulse pulse   Pulse $(&amp;rsquo;#element&amp;rsquo;).</description>
+    </item>
+    
+    <item>
+      <title>Loungesets</title>
+      <link>/blog/colors/</link>
+      <pubDate>Mon, 10 Apr 2017 16:43:14 +0100</pubDate>
+      
+      <guid>/blog/colors/</guid>
+      <description>Text Contrasting black color for headings and less intense dark gray for the text helps to improve readability.
+ Headings $color-headings
+  Text $color-text
+   Links Classic blue links and soft red for the hover state makes links visible and predictable.
+ Link $color-link
+  Hover $color-link-hover
+   Buttons Blue color for primary buttons for greater consistency with links. Black color for secondary buttons allows you build a variety of UI.</description>
+    </item>
+    
+  </channel>
+</rss>

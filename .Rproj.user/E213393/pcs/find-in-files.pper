@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "C:/Users/Michael/Desktop/tuinmeubelendiscounter",
+        "query" : "voice of newpixcom",
+        "regex" : false
+    }
+}

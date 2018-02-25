@@ -1,0 +1,130 @@
+{{ define "title"}} {{ .Site.Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+
+
+<div id="main">
+  <div id="hero">
+    <h1>{{.Title}}</h1>
+    <p>{{.Description}}</p>
+  </div>
+  <div id="kube-features">
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Baseline" height="48" src="{{ "/img/kube/icon-baseline.png" | relURL }}" width="48">
+        </figure>
+        <h3>Gratis Bezorging</h3>
+        <p>Vanaf 40 euro worden producten volledig zonder extra kosten bezorgd</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Typography" height="48" src="{{ "/img/kube/icon-typo.png" | relURL }}" width="48">
+        </figure>
+        <h3>Laagste Prijs</h3>
+        <p>Wij garanderen u de laagste prijs en matchen prijzen indien onze prijzen niet het laagst zijn</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Minimalism" height="48" src="{{ "/img/kube/icon-minimalism.png" | relURL }}" width="48">
+        </figure>
+        <h3>Beste Kwaliteit</h3>
+        <p>Onze producten voldoen aan de hoogste kwaliteitseisen en staan symbool voor duurzaamheid</p>
+      </div>
+    </div>
+    
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <h4>Loungesets</h4>
+        <p>Lorem Ipsum</p>
+      </div>
+      <div class="col col-4 item">
+        <h4>Tuinsets</h4>
+        <p>Lorem Ipsum</p>
+      </div>
+      <div class="col col-4 item">
+        <h4>Tuintafels</h4>
+        <p></a>.<br>
+     Lorem Ipsum</p>
+    </div>
+    <div class="col col-4 item">
+        <h4>Tuinstoelen</h4>
+        <p></a>.<br>
+      Lorem Ipsum</p>
+    </div>
+    <div class="col col-4 item">
+        <h4>Barbecues</h4>
+        <p></a>.<br>
+      Lorem Ipsum</p>
+    </div>
+    <div class="col col-4 item">
+        <h4>Bescherming</h4>
+        <p></a>.<br>
+      Lorem Ipsum</p>
+    </div>
+    <div class="col col-4 item">
+        <h4>Parasols</h4>
+        <p></a>.<br>
+      Lorem Ipsum</p>
+    </div>
+    <div class="col col-4 item">
+        <h4>Partytenten</h4>
+        <p></a>.<br>
+      Lorem Ipsum</p>
+    </div>
+    <div class="col col-4 item">
+        <h4>Overige</h4>
+        <p></a>.<br>
+      Lorem Ipsum</p>
+    </div>
+  </div>
+  
+  <div class="container">
+  <div class="row">
+    <div class="col-*-*"></div>
+    <div class="col-*-*"></div>
+  </div>
+  <div class="row">
+    <div class="col-*-*"></div>
+    <div class="col-*-*"></div>
+    <div class="col-*-*"></div>
+  </div>
+  <div class="row">
+  </div>
+</div>  
+ 
+ 
+ <div id="hero">
+    <h2>Klantenservice</h2>
+    <p>Heeft u verdere vragen? Neem alstublieft contact op volgens onderstaande wijze</p>
+  </div>
+ 
+  <div class="row gutters">
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Baseline" height="48" src="{{ "/img/kube/email.png" | relURL }}" width="48">
+        </figure>
+        <h3>Email</h3>
+        <p>Laat gerust een bericht achter bij info@tuinmeubeldiscounter.com en ontvang een reactie binnen twee werkdagen</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Laagste Prijs" height="48" src="{{ "/img/kube/phone.png" | relURL }}" width="48">
+        </figure>
+        <h3>Telefoon</h3>
+        <p>Schroom niet te bellen naar 020 123 456 789, tijdens werkdagen kunt u terecht tussen 09:00 en 17:00</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Minimalism" height="48" src="{{ "/img/kube/facebook.png" | relURL }}" width="48">
+        </figure>
+        <h3>Facebook</h3>
+        <p>U kunt ons een bericht sturen via Facebook: tuinmeubeldiscounter</p>
+      </div>
+    </div>
+  </div>
+  
+</div>
+</div>
+{{ end }}
+{{ define "footer"}} {{ partial "footer" .}} {{end}}

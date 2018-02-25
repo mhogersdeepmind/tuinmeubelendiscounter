@@ -1,0 +1,18 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Tuinmeubel-Discounter"
+theme = "kube"
+description = ""
+Paginate = 3
+[Params]
+  RSSLink = "/index.xml"
+  author = "teunmeubeldiscounter" # add your company name
+
+[[menu.main]]
+    name = "Producten"
+    weight = -100
+    url = "/docs/"
+[[menu.main]]
+    name = "Aanbiedingen"
+    weight = -100
+    url = "/blog/"

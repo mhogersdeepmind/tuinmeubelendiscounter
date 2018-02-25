@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "{{ define \"title\"}} {{ .Title}} {{end}}\n{{ define \"header\"}} {{ partial \"header\" .}} {{end}}\n{{ define \"main\"}}\n  <div id=\"main\">\n    <div id=\"hero\">\n      <h2> Actuele Aanbiedingen </h2>\n      <p class=\"hero-lead\">\n           {{ .Params.bref | safeHTML }}.\n      </p>\n\n    </div> \n    <div id=\"kube-component\" class=\"content\">\n    {{ partial \"toc\" .}}\n\n    {{ .Content}}\n<!-- Inject script tag in this template  -->\n    {{if .Params.script}}\n     {{ $script := (delimit (slice \"scripts\" .Params.script) \"/\")}}\n    {{ partial (string $script) .}}\n    {{end }}\n    </div>\n    </div>\n{{ end }}\n",
+    "created" : 1519575905756.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3822545418",
+    "id" : "873FC653",
+    "lastKnownWriteTime" : 1519575934,
+    "last_content_update" : 1519575934657,
+    "path" : "C:/Users/Michael/Desktop/tuinmeubelendiscounter/themes/kube/layouts/docs/single.html",
+    "project_path" : "themes/kube/layouts/docs/single.html",
+    "properties" : {
+    },
+    "relative_order" : 26,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "{{ define \"title\"}} {{ .Title}} {{end}}\n{{ define \"header\"}} {{ partial \"header\" .}} {{end}}\n{{ define \"main\"}}\n<div id=\"main\">\n  <div id=\"hero\">\n    <h1></h1>\n  </div>\n  <div id=\"components\">\n    <div class=\"row gutters\">\n      {{ range .Data.Pages.ByWeight }}\n      <div class=\"col col-4 item\">\n        <h4><a href=\"{{ .Permalink }}\">{{ .Title }}</a></h4>\n        <p>{{ .Params.description }}</p>\n      </div>\n      {{ end }}\n\n    </div>\n  </div>\n</div>\n{{ end }}\n\n{{ define \"footer\"}} {{ partial \"footer\" .}} {{end}}",
+    "created" : 1519570931398.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1820164150",
+    "id" : "43C2EA47",
+    "lastKnownWriteTime" : 1519575881,
+    "last_content_update" : 1519575881648,
+    "path" : "C:/Users/Michael/Desktop/tuinmeubelendiscounter/themes/kube/layouts/section/docs.html",
+    "project_path" : "themes/kube/layouts/section/docs.html",
+    "properties" : {
+    },
+    "relative_order" : 17,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}

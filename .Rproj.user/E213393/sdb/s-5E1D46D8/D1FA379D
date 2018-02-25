@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "{{ define \"title\"}} {{ .Title}} {{end}}\n{{ define \"header\"}} {{ partial \"header\" .}} {{end}}\n\n{{ define \"main\" }}\n\n<div id=\"hero\" class=\"wrap\">\n  <h1>Voice of {{.Site.Params.author }} Developers</h1>\n    <p>Our vision, news and ideas, and whatever feels important.<br> <a href=\"https://twitter.com/{{.Site.Params.twitter}}\">Follow us on Twitter</a></p>\n</div>\n<ul id=\"posts\">\n\n {{ range .Paginator.Pages.ByWeight }} {{ partial \"page-summary\" . }} {{ end }}\n  <section>{{ partial \"pagination\" .}}</section>\n</ul>\n\n{{ end }} \n{{ define \"footer\" }} \n  {{ partial \"footer\" . }} \n{{ end }}\n",
+    "created" : 1519570900177.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3416085730",
+    "id" : "D1FA379D",
+    "lastKnownWriteTime" : 1519568953,
+    "last_content_update" : 1519568953,
+    "path" : "C:/Users/Michael/Desktop/tuinmeubelendiscounter/themes/kube/layouts/_default/list.html",
+    "project_path" : "themes/kube/layouts/_default/list.html",
+    "properties" : {
+    },
+    "relative_order" : 15,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}

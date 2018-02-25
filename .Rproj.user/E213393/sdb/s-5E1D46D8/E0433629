@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nsite: blogdown:::blogdown_site\n---\n",
+    "created" : 1519570516017.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1542943790",
+    "id" : "E0433629",
+    "lastKnownWriteTime" : 1519568954,
+    "last_content_update" : 1519568954,
+    "path" : "C:/Users/Michael/Desktop/tuinmeubelendiscounter/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
